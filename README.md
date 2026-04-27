@@ -4,10 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham131345&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&hide_border=true)
 
-&lt;br&gt;
-
-&lt;/div&gt;
-
 ---
 
 &gt; Most of my projects are **proprietary**.
@@ -37,7 +33,7 @@
 - **AI/ML**: Neuroevolution algorithms, DistilBERT-based SLMs, TensorFlow
 - **DevOps**: Docker, Google Cloud Run, PythonAnywhere
 - **Hardware**: Raspberry Pi 5, ESP32
-- **Mobile**: Android apps (MIT App Inventor / Kodular)
+- **Mobile**: Android apps
 - **Databases**: Firebase, JSON/CSV processing
 
 ---
