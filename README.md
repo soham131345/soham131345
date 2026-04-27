@@ -1,6 +1,6 @@
 &lt;div align="center"&gt;
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hey+there+I'm+Soham+Bhole;Building+Apps;Python+Based;Singapore+%F0%9F%87%B8%F0%9F%87%AC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hey+there+I'm+Soham+Bhole;Building+GAIA;MIT+Appathon+2026;Singapore+%F0%9F%87%B8%F0%9F%87%AC)
 
 &lt;br&gt;
 
@@ -12,11 +12,11 @@
 
 &lt;br&gt;
 
+&lt;/div&gt;
+
 ---
 
-&gt; Most of my projects are **proprietary**.
-Use one of my main applications!:
-[SG Bus RT](https://sgbusrt.pythonanywhere.com/)
+&gt; Most of my projects are **proprietary**. Use one of my main applications: **SG Bus RT**
 
 ---
 
@@ -50,7 +50,3 @@ Use one of my main applications!:
 
 - Email: sohambhole0311@gmail.com
 - Based in: Singapore 🇸🇬
-
----
-
-
