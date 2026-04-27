@@ -12,10 +12,6 @@
 
 &lt;br&gt;
 
-![Stats](https://github-readme-stats.vercel.app/api?username=soham131345&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&icon_color=00ff88&hide_border=true&show_icons=true)
-
-&lt;/div&gt;
-
 ---
 
 &gt; Most of my projects are **proprietary**.
@@ -57,4 +53,4 @@ Use one of my main applications!:
 
 ---
 
-![](https://komarev.com/ghpvc/?username=soham131345&color=00ff88&style=flat)
+
