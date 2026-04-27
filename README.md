@@ -1,14 +1,6 @@
-&lt;div align="center"&gt;
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hey+there+I'm+Soham+Bhole;Building+Apps;Python+Based;Singapore+%F0%9F%87%B8%F0%9F%87%AC)
-
-&lt;br&gt;
-
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=soham131345&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=00ff88&line=00ff88&point=ffffff)
-
-&lt;br&gt;
-
-![Stats](https://github-readme-stats.vercel.app/api?username=soham131345&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&icon_color=00ff88&hide_border=true&show_icons=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham131345&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&hide_border=true)
 
@@ -24,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +30,7 @@
 
 ---
 
-## 💡 What I Work With
+## What I Work With
 
 - **Languages**: C++, Python, HTML/CSS
 - **Frameworks**: Flask, REST APIs
@@ -50,7 +42,7 @@
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
 - Email: sohambhole0311@gmail.com
 - Based in: Singapore 🇸🇬
