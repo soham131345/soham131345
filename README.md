@@ -4,13 +4,17 @@
 
 &lt;br&gt;
 
-&lt;picture&gt;
-  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham131345/soham131345/output/github-contribution-grid-snake-dark.svg" /&gt;
-  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham131345/soham131345/output/github-contribution-grid-snake.svg" /&gt;
-  &lt;img alt="github-snake" src="https://raw.githubusercontent.com/soham131345/soham131345/output/github-contribution-grid-snake.svg" /&gt;
-&lt;/picture&gt;
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=soham131345&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=00ff88&line=00ff88&point=ffffff)
 
 &lt;br&gt;
+
+![Stats](https://github-readme-stats.vercel.app/api?username=soham131345&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&icon_color=00ff88&hide_border=true&show_icons=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham131345&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0&hide_border=true)
+
+&lt;br&gt;
+
+&lt;/div&gt;
 
 ---
 
