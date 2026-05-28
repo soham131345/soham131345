@@ -9,6 +9,7 @@
 &gt; Most of my projects are **proprietary**.
 &gt; Use one of my main applications!:
 &gt; [SG Bus RT](https://sgbusrt.pythonanywhere.com/)
+&gt; [Pseudocode Compiler Studio](https://pseudorun.pythonanywhere.com/)
 
 ---
 
