@@ -27,7 +27,7 @@ I turn ambitious ideas into working products, from backend logic and interfaces 
 
 I’m a student developer based in Singapore. I build full-stack applications, independent AI research, developer tools and physical computing projects. I also publish research and compete in hackathons and technical competitions.
 
-> Most of my projects are proprietary. This GitHub is a public selection of the tools, research and experiments I can share.
+> Most of my projects are proprietary. This GitHub is a public selection of the tools, research and experiments Ive shared.
 
 ## `~/terminal`
 
@@ -102,7 +102,7 @@ print(soham.build_loop())
 
 | Process | Loaded modules |
 | :--- | :--- |
-| **`languages`** | C++, Python, Kotlin, JavaScript, HTML and CSS |
+| **`languages`** | C++, Python, Kotlin, JavaScript, HTML, CSS and Rust(work in progress) |
 | **`web_and_apis`** | Flask, REST APIs and full-stack application development |
 | **`ai_and_ml`** | Neuroevolution, DistilBERT-based SLMs, TensorFlow and ESM-2 |
 | **`deployment`** | Docker, Google Cloud Run and PythonAnywhere |
@@ -124,7 +124,6 @@ print(soham.build_loop())
 <br /><br />
 <img src="https://streak-stats.demolab.com?user=soham131345&amp;hide_border=true&amp;background=0B1716&amp;ring=8FF5D2&amp;fire=E8B9D7&amp;currStreakLabel=8FF5D2&amp;sideLabels=C5D5CF&amp;currStreakNum=8FF5D2&amp;sideNums=8FF5D2&amp;dates=C5D5CF" alt="Soham's GitHub contribution streak" />
 <br /><br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham131345&amp;bg_color=0B1716&amp;color=C5D5CF&amp;line=8FF5D2&amp;point=E8B9D7&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="Soham's GitHub contribution activity graph" />
 </div>
 
 <div align="center">
